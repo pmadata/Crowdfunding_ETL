@@ -75,3 +75,6 @@ SELECT * FROM "Subcategory"
 
 --check subcategory table
 SELECT * FROM "Contact"
+
+--check campaign table
+SELECT * FROM "Campaign"
